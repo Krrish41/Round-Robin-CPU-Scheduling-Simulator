@@ -1,5 +1,7 @@
 # Round Robin CPU Scheduling Simulator
 
+🌐 **Live Demo**: [Round-Robin-CPU-Scheduling-Simulator](https://krrish41.github.io/Round-Robin-CPU-Scheduling-Simulator/)
+
 Interactive web-based simulator for **Round Robin (RR)** scheduling algorithm.
 
 ## Features
