@@ -1,10 +1,11 @@
 # Round Robin CPU Scheduling Simulator
 
-🌐 **Live Demo**: [Round-Robin-CPU-Scheduling-Simulator](https://krrish41.github.io/Round-Robin-CPU-Scheduling-Simulator/)
+Interactive web-based simulator for the **Round Robin (RR)** scheduling algorithm.
 
-Interactive web-based simulator for **Round Robin (RR)** scheduling algorithm.
+**Live Demo:** [https://krrish41.github.io/Round-Robin-CPU-Scheduling-Simulator/](https://krrish41.github.io/Round-Robin-CPU-Scheduling-Simulator/)
 
 ## Features
+
 - Single & Multi-burst modes (up to 3 CPU + I/O phases)
 - Real-time Gantt chart
 - Step-by-step execution with undo
@@ -12,6 +13,7 @@ Interactive web-based simulator for **Round Robin (RR)** scheduling algorithm.
 - Responsive UI
 
 ## How to Use
+
 1. Set number of processes & time quantum
 2. Choose mode
 3. Click "Generate Table"
