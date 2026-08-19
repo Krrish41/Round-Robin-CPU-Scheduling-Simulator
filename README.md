@@ -1,31 +1,26 @@
-# Round Robin Cpu Scheduling Simulator
-> This project is an interactive web-based simulator that visualizes how the Round Robin (RR) CPU scheduling algorithm works. Built entirely with HTML, CSS, and JavaScript, it allows users to configure processes, set time quantum, and observe scheduling in real-time through an animated Gantt chart and detailed performance metrics.
+# Round Robin CPU Scheduling Simulator
 
-## Overview
-This project, **Round-Robin-CPU-Scheduling-Simulator**, was developed to solve specific challenges or explore new technologies. It serves as a demonstration of coding practices and problem-solving skills.
+Interactive web-based simulator for the **Round Robin (RR)** scheduling algorithm.
 
-## Highlights / Key Features
-- **Core Functionality**: Delivers on the primary objective defined in the project description.
-- **Clean Implementation**: Codebase structured for readability and maintenance.
+**Live Demo:** [https://krrish41.github.io/Round-Robin-CPU-Scheduling-Simulator/](https://krrish41.github.io/Round-Robin-CPU-Scheduling-Simulator/)
 
-## Getting Started / Installation
-1. Clone the repository:
-   \\ash
-   git clone https://github.com/Krrish41/Round-Robin-CPU-Scheduling-Simulator.git
-   cd Round-Robin-CPU-Scheduling-Simulator
-   \2. Follow standard setup instructions for a JavaScript project.
+## Features
 
-## Usage
-Explore the source code to understand the internal workings and run the project locally.
+- Single & Multi-burst modes (up to 3 CPU + I/O phases)
+- Real-time Gantt chart
+- Step-by-step execution with undo
+- Accurate metrics: Turnaround, Waiting, Response Time
+- Responsive UI
 
-## Built With
-- **JavaScript** - Primary language used.
+## How to Use
 
-## Contributing
-Contributions are always welcome! Feel free to open an issue or submit a PR.
+1. Set number of processes & time quantum
+2. Choose mode
+3. Click "Generate Table"
+4. Enter arrival & burst times
+5. Click "Start Simulation"
+6. Use Play/Step to visualize!
 
-## License & Credits
-Open source. Check the repository for the exact LICENSE file if available.
+---
 
-## Support & Contact
-Contact the maintainer at krrish4173@gmail.com.
+*Built with HTML, CSS, JS — no backend required.*
